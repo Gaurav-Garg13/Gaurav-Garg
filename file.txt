@@ -1,1 +1,2 @@
 Source Code Management
+how to push and pull
